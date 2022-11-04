@@ -1,1 +1,0 @@
-const t={key:"v-998d1820",path:"/you/%E7%88%B1%E7%9A%84%E7%89%A9%E7%90%86%E5%AD%A6.html",title:"\u7231\u7684\u7269\u7406\u5B66",lang:"zh-CN",frontmatter:{title:"\u7231\u7684\u7269\u7406\u5B66",date:"2022-02-22T22:22:22.000Z",tags:"\u7476\u7476"},excerpt:"",headers:[],git:{},filePathRelative:"you/\u7231\u7684\u7269\u7406\u5B66.md"};export{t as data};

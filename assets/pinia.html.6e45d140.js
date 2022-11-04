@@ -1,1 +1,0 @@
-const e={key:"v-2367ff55",path:"/vue3/pinia.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Pinia \u7684\u4F7F\u7528",slug:"pinia-\u7684\u4F7F\u7528",children:[{level:3,title:"\u5B89\u88C5",slug:"\u5B89\u88C5",children:[]},{level:3,title:"\u4F7F\u7528",slug:"\u4F7F\u7528",children:[]}]}],git:{},filePathRelative:"vue3/pinia.md"};export{e as data};
