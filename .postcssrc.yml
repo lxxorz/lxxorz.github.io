@@ -1,0 +1,4 @@
+parser: false
+map: true
+plugins:
+  postcss-nesting: {}
